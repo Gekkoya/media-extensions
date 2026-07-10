@@ -15,10 +15,10 @@
   {
     "name": "Symera: Jkanime",
     "pkg": "org.symera.mediasource.es.jkanime",
-    "apk": "symera-es-jkanime-v2.1.apk",
+    "apk": "symera-es-jkanime-v2.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "2.1",
+    "code": 2,
+    "version": "2.2",
     "nsfw": false,
     "sourceSdk": 2,
     "extClass": ".Jkanime",
