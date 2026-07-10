@@ -63,5 +63,18 @@
     "extClass": ".Pelisplusto",
     "icon": "icon/org.symera.mediasource.es.pelisplusto.png",
     "sources": []
+  },
+  {
+    "name": "Symera: TioPlusApp",
+    "pkg": "org.symera.mediasource.es.tioplusapp",
+    "apk": "symera-es-tioplusapp-v2.91.apk",
+    "lang": "es",
+    "code": 91,
+    "version": "2.91",
+    "nsfw": false,
+    "sourceSdk": 2,
+    "extClass": ".TioPlusApp",
+    "icon": "icon/org.symera.mediasource.es.tioplusapp.png",
+    "sources": []
   }
 ]
