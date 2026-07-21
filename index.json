@@ -2,7 +2,7 @@
   {
     "name": "Symera: YFlix",
     "pkg": "org.symera.mediasource.en.yflix",
-    "apk": "symera-en-yflix-v2.3.apk",
+    "apk": "apk/symera-en-yflix-v2.3.apk",
     "lang": "en",
     "code": 3,
     "version": "2.3",
@@ -15,7 +15,7 @@
   {
     "name": "Symera: Doramasflix",
     "pkg": "org.symera.mediasource.es.doramasflix",
-    "apk": "symera-es-doramasflix-v4.8.apk",
+    "apk": "apk/symera-es-doramasflix-v4.8.apk",
     "lang": "es",
     "code": 400008,
     "version": "4.8",
@@ -29,7 +29,7 @@
   {
     "name": "Symera: Jkanime",
     "pkg": "org.symera.mediasource.es.jkanime",
-    "apk": "symera-es-jkanime-v4.18.apk",
+    "apk": "apk/symera-es-jkanime-v4.18.apk",
     "lang": "es",
     "code": 400018,
     "version": "4.18",
@@ -43,7 +43,7 @@
   {
     "name": "Symera: PelisPlusHD",
     "pkg": "org.symera.mediasource.es.pelisplushd",
-    "apk": "symera-es-pelisplushd-v2.90.apk",
+    "apk": "apk/symera-es-pelisplushd-v2.90.apk",
     "lang": "es",
     "code": 90,
     "version": "2.90",
@@ -56,7 +56,7 @@
   {
     "name": "Symera: PelisPlusPh",
     "pkg": "org.symera.mediasource.es.pelisplusph",
-    "apk": "symera-es-pelisplusph-v2.90.apk",
+    "apk": "apk/symera-es-pelisplusph-v2.90.apk",
     "lang": "es",
     "code": 90,
     "version": "2.90",
@@ -69,7 +69,7 @@
   {
     "name": "Symera: PelisPlusTo",
     "pkg": "org.symera.mediasource.es.pelisplusto",
-    "apk": "symera-es-pelisplusto-v2.90.apk",
+    "apk": "apk/symera-es-pelisplusto-v2.90.apk",
     "lang": "es",
     "code": 90,
     "version": "2.90",
@@ -82,7 +82,7 @@
   {
     "name": "Symera: TioPlusApp",
     "pkg": "org.symera.mediasource.es.tioplusapp",
-    "apk": "symera-es-tioplusapp-v4.92.apk",
+    "apk": "apk/symera-es-tioplusapp-v4.92.apk",
     "lang": "es",
     "code": 400092,
     "version": "4.92",
