@@ -13,15 +13,28 @@
     "sources": []
   },
   {
-    "name": "Symera: Jkanime",
-    "pkg": "org.symera.mediasource.es.jkanime",
-    "apk": "symera-es-jkanime-v2.2.apk",
+    "name": "Symera: Doramasflix",
+    "pkg": "org.symera.mediasource.es.doramasflix",
+    "apk": "symera-es-doramasflix-v2.2.apk",
     "lang": "es",
     "code": 2,
     "version": "2.2",
     "nsfw": false,
-    "sourceSdk": 2,
-    "extClass": ".Jkanime",
+    "sourceSdk": 0,
+    "extClass": "",
+    "icon": "icon/org.symera.mediasource.es.doramasflix.png",
+    "sources": []
+  },
+  {
+    "name": "Symera: Jkanime",
+    "pkg": "org.symera.mediasource.es.jkanime",
+    "apk": "symera-es-jkanime-v2.10.apk",
+    "lang": "es",
+    "code": 10,
+    "version": "2.10",
+    "nsfw": false,
+    "sourceSdk": 0,
+    "extClass": "",
     "icon": "icon/org.symera.mediasource.es.jkanime.png",
     "sources": []
   },
@@ -62,6 +75,19 @@
     "sourceSdk": 2,
     "extClass": ".Pelisplusto",
     "icon": "icon/org.symera.mediasource.es.pelisplusto.png",
+    "sources": []
+  },
+  {
+    "name": "Symera: TioPlusApp",
+    "pkg": "org.symera.mediasource.es.tioplusapp",
+    "apk": "symera-es-tioplusapp-v2.92.apk",
+    "lang": "es",
+    "code": 92,
+    "version": "2.92",
+    "nsfw": false,
+    "sourceSdk": 0,
+    "extClass": "",
+    "icon": "icon/org.symera.mediasource.es.tioplusapp.png",
     "sources": []
   }
 ]
