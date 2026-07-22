@@ -37,7 +37,7 @@
     "sourceSdk": 4,
     "extClass": "org.symera.mediasource.es.jkanime.JkanimeFactory",
     "icon": "icon/org.symera.mediasource.es.jkanime.png",
-    "apkSha256": "ddc8f1905519f7b7bbf9af2c983b5cb3ce64c1f489ba7159ab08ceeb2e892c97",
+    "apkSha256": "2283dcef485ae181c6b1d96a6ae1b4a994a09ccb49e950898c0cc3c40fe2096d",
     "sources": []
   },
   {
@@ -90,7 +90,7 @@
     "sourceSdk": 4,
     "extClass": "org.symera.mediasource.es.tioplusapp.TioPlusAppFactory",
     "icon": "icon/org.symera.mediasource.es.tioplusapp.png",
-    "apkSha256": "c2ff6aeb0de49003fd5a2644c7bebb506928487bfe4e971ba277b4a39e1c0607",
+    "apkSha256": "64b42ff859b428dcbb322e559bfc7f5f67b067a2d23073e538ec44060ee6cb90",
     "sources": []
   }
 ]
